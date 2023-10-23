@@ -1,4 +1,4 @@
-# top-twitrch-streamers
+# top-twitch-streamers
 
 ## Final Capstone for the 30-Day Challenge by [Zindua School](https://zinduaschool.com)
 
